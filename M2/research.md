@@ -15,6 +15,9 @@
 
 ### What are the potential Sources 
 
+Information source for domains:
+`whois` gives information about a domains registrar (name, address, emails, etc.)
+
 https://www.sans.edu/cyber-research/security-laboratory/article/6toplogs
 
 
